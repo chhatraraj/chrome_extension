@@ -62,6 +62,21 @@ productivity-booster/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+
+## How to Use
+1. Clone the repository:
+   ```
+   git clone git@github.com:chhatraraj/Scientific_calculator.git
+   ```
+2. Navigate to the project directory:
+   ```
+   cd Scientific_calculator
+   ```
+
+##  Screenshot 
+   ![Calculator Screenshot]()
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
