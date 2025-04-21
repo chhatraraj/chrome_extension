@@ -66,15 +66,15 @@ productivity-booster/
 ## How to Use
 1. Clone the repository:
    ```
-   git clone git@github.com:chhatraraj/Scientific_calculator.git
+   git clone git@github.com:chhatraraj/chrome_extension.git
    ```
 2. Navigate to the project directory:
    ```
-   cd Scientific_calculator
+   cd chrome_extension.
    ```
 
 ##  Screenshot 
-   ![Calculator Screenshot]()
+   ![picturee]()
 
 
 ## License
